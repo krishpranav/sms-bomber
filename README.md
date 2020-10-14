@@ -20,7 +20,4 @@ A simple bash scripting tool sms bombing a phone number
 - git clone https://github.com/krishpranav/sms-bomber
 - cd sms-bomber
 - chmod +x *
-
-
-
-
+- bash sms_bomber.sh
