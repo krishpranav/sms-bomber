@@ -1,16 +1,4 @@
 #!/bin/bash
-#==========================================================================================================================
-#========================================================================================================================== 
-#Vaim-sms v1.0
-#don't use my code with giving me credit 
-#if you use without giving me credit then you won't became a programmer so please respect
-#Youtube channel : https://www.youtube.com/channel/UCu-xG31hWgJLIptcPBuSigQ
-#Github (coded by vaimpier ritik ) >>> : https://github.com/VaimpierOfficial
-#For business : sonuv0085@gmail.com
-#vaimpier
-#==========================================================================================================================
-#==========================================================================================================================
-
 
 banner() {
 clear
